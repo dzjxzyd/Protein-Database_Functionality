@@ -465,7 +465,7 @@ def main(argv=None):
     if os.path.exists(old):
         os.remove(old)
     docs = {}
-    for doc in ('README.md', 'LICENSE-DATA.md'):
+    for doc in ('README.md', 'README.zh-CN.md', 'LICENSE-DATA.md', 'assets/ai4fh.svg', 'assets/ai4fh-white.svg'):
         if os.path.exists(os.path.join(ROOT, doc)):
             with open(os.path.join(ROOT, doc), 'rb') as fh:
                 docs[doc] = fh.read()
