@@ -3,7 +3,7 @@
 r"""
 serve.py —— 在本机预览网站（只给自己看；发布到 GitHub Pages 以后不需要它）
 
-    python C:\Users\xudon\Desktop\protein_db_site\scripts\serve.py          # 然后浏览器打开 http://localhost:8765
+    python C:\Users\xudon\Desktop\PDF_project\4_website\scripts\serve.py          # 然后浏览器打开 http://localhost:8765
     python ...\serve.py --port 8766                                          # 8765 被占用时换个端口
 
 和 python -m http.server 一样，只是每个文件都告诉浏览器「每次先检查有没有更新」（Cache-Control: no-cache），

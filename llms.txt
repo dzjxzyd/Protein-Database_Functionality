@@ -1,6 +1,6 @@
 # PDF · Protein Database of Functionality
 
-> Database of food protein functional properties extracted from published journal articles. Each value of 17 properties (solubility, emulsifying, foaming, gelling, water/oil holding, particle size, ζ-potential, PDI, sulfhydryl, disulfide, surface hydrophobicity, turbidity, degree of hydrolysis, free amino groups, encapsulation, antioxidant activity) is linked to a sample (protein source, composition, ingredients), its sample treatment and the test method. Data licence CC BY 4.0. Built by the AI4FH Lab, University College Dublin.
+> Database of food protein functional properties extracted from published journal articles. Each value of 17 properties (solubility, emulsifying, foaming, gelling, water/oil holding, particle size, ζ-potential, PDI, sulfhydryl, disulfide, surface hydrophobicity, turbidity, degree of hydrolysis, free amino groups, encapsulation, antioxidant activity) is linked to a sample (protein source, composition, ingredients), its sample treatment and the test method. Data licence CC BY-NC 4.0 (non-commercial use only). Built by the AI4FH Lab, University College Dublin.
 
 This file is for AI agents and scripts. The website (index.html) needs JavaScript and shows nothing to a plain HTTP fetch; all data are static files listed below. No sign-up, no API key.
 
@@ -45,7 +45,7 @@ print(soy.groupby('unit_std')['value_std'].describe())
 
 ## Citation and licence
 
-Data: CC BY 4.0. Credit "PDF · Protein Database of Functionality" (URL and version from manifest.json) and cite the original articles the values come from. Code: MIT.
+Data: CC BY-NC 4.0 (non-commercial use only; the values were extracted under publishers' text and data mining terms). Credit "PDF · Protein Database of Functionality" (URL and version from manifest.json) and cite the original articles the values come from. Code: MIT.
 
 ## Contact
 

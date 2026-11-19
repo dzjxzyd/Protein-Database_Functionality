@@ -114,7 +114,7 @@ window.PDF_TEXT = (() => {
     loading: '正在加载数据…', load_fail: '数据加载失败：{e}', loading_search: '正在加载关键词索引…',
     no_stream: '这个浏览器太旧，不能解压数据。请换用新版 Chrome、Edge、Firefox 或 Safari。',
     // 页脚
-    f_data_1: '数据许可 CC BY 4.0，代码 MIT', f_cite: '如何引用', f_feedback: '反馈',
+    f_data_1: '数据许可 CC BY-NC 4.0，代码 MIT', f_cite: '如何引用', f_feedback: '反馈',
     f_built: '数据更新：{d}', f_version: '版本 {v}',
     f_copy: '论文版权归原作者和出版商所有', f_lab: '开发：', f_contact: '联系：',
     // 分面、通用
@@ -137,7 +137,7 @@ window.PDF_TEXT = (() => {
     h_hub: '{n} 项性质', h_wheel: '17 项性质一览', h_wheel_sub: '分成四类。点色环里的一项，或下面的名字，直接看它的数值分布、常用测试方法和原始数值。', h_nvals: '{n} 个数值',
     e_search: '检索数值', e_search_d: '按性质、蛋白、处理、方法筛选，画图、对比、导出',
     e_props: '性质说明', e_props_d: '每项性质测什么、标准单位、常用测试方法',
-    e_dl: '下载数据', e_dl_d: '按性质的平铺表或完整关系表，CC BY 4.0',
+    e_dl: '下载数据', e_dl_d: '按性质的平铺表或完整关系表，CC BY-NC 4.0',
     e_ai: '给 AI 用', e_ai_d: '复制一段话给你的 AI，它自己下载、分析',
     h_line_model: '标记的数值是从图中读出的估计值', h_line_cite: '如何引用',
     pr_sub: '17 项性质各测什么、常用什么单位、库里最常用的测试方法和数值多少。测试方法后面的数字是库里用这种方法测出的数值个数。',
@@ -215,7 +215,7 @@ window.PDF_TEXT = (() => {
     pp_in_search: '在检索中查看', pp_basket: '全部加入数据篮', pp_copy: '复制本页链接', pp_dl: '下载这些数据', pp_none: '没有符合条件的数值',
     pp_single: '单个数值', pp_show_more: '显示全部 {n} 行', pp_shown: '显示前 {n} 行', pp_paper: '论文',
     // 下载
-    dl_title: '下载', dl_sub: 'PDF 的全部数据都可以下载，UTF-8 编码的 CSV（Excel 可直接打开）。数据许可 CC BY 4.0，使用时请引用本数据库和对应的原始论文。',
+    dl_title: '下载', dl_sub: 'PDF 的全部数据都可以下载，UTF-8 编码的 CSV（Excel 可直接打开）。数据许可 CC BY-NC 4.0（仅限非商业用途），使用时请引用本数据库和对应的原始论文。',
     dl_flat: '按性质下载（平铺表）', dl_flat_sub: '一行一个数值，样品、配料、处理条件、测试方法和论文信息都在同一行，适合直接在 Excel 里筛选；17 项性质各一个文件。',
     dl_th_prop: '性质', dl_total: '共 {n} 个文件、{s}；每个压缩包里都附说明（README）和数据许可', dl_btn: '下载', dl_tables: '分表下载（关系表）',
     dl_tables_sub: '完整数据库，各表用 doi、sample_id、measurement_id 互相关联，适合导入数据库或用 R / Python 合并。',
@@ -251,7 +251,7 @@ window.PDF_TEXT = (() => {
     nav_basket: 'Basket', nav_changelog: 'Changelog',
     loading: 'Loading data…', load_fail: 'Failed to load data: {e}', loading_search: 'Loading keyword index…',
     no_stream: 'This browser is too old to decompress the data. Please use a recent Chrome, Edge, Firefox or Safari.',
-    f_data_1: 'Data CC BY 4.0, code MIT', f_cite: 'How to cite', f_feedback: 'Feedback',
+    f_data_1: 'Data CC BY-NC 4.0, code MIT', f_cite: 'How to cite', f_feedback: 'Feedback',
     f_built: 'Data updated {d}', f_version: 'Version {v}',
     f_copy: 'Article copyright remains with the authors and publishers', f_lab: 'Developed by ', f_contact: 'Contact: ',
     f_prop: 'Functional property', f_src: 'Protein source', f_pcat: 'Protein category', f_form: 'Protein form',
@@ -272,7 +272,7 @@ window.PDF_TEXT = (() => {
     h_hub: '{n} properties', h_wheel: 'The 17 properties', h_wheel_sub: 'In four groups. Click a property in the ring, or a name below, to see its value distribution, common test methods and raw values.', h_nvals: '{n} values',
     e_search: 'Search values', e_search_d: 'Filter by property, protein, treatment and method; plot, compare, export',
     e_props: 'Property guide', e_props_d: 'What each property measures, its units and common test methods',
-    e_dl: 'Download', e_dl_d: 'Flat tables per property or the full relational tables, CC BY 4.0',
+    e_dl: 'Download', e_dl_d: 'Flat tables per property or the full relational tables, CC BY-NC 4.0',
     e_ai: 'For AI agents', e_ai_d: 'Copy one paragraph to your AI; it downloads and analyses the data itself',
     h_line_model: 'values were read from figures and are estimates', h_line_cite: 'How to cite',
     pr_sub: 'What each of the 17 properties measures, the units it is reported in, the test methods used most in the database, and how many values there are. The number after a method is how many values in the database were measured with it.',
@@ -349,7 +349,7 @@ window.PDF_TEXT = (() => {
     pp_treat: 'Sample treatments', pp_raw: 'Value table ({n} rows)', pp_in_search: 'Open in Search', pp_basket: 'Add all to basket',
     pp_copy: 'Copy link', pp_dl: 'Download these data', pp_none: 'No values match', pp_single: 'Single value',
     pp_show_more: 'Show all {n} rows', pp_shown: 'First {n} rows', pp_paper: 'Paper',
-    dl_title: 'Download', dl_sub: 'All PDF data can be downloaded as UTF-8 CSV files (open directly in Excel). Data are licensed CC BY 4.0 — please cite this database and the original articles.',
+    dl_title: 'Download', dl_sub: 'All PDF data can be downloaded as UTF-8 CSV files (open directly in Excel). Data are licensed CC BY-NC 4.0 (non-commercial use only) — please cite this database and the original articles.',
     dl_flat: 'By property (flat tables)', dl_flat_sub: 'One row per value, with the sample, ingredients, treatment conditions, test method and paper in the same row — ready to filter in Excel; one file for each of the 17 properties.',
     dl_th_prop: 'Property', dl_total: '{n} files, {s} in total; each archive includes the README and the data licence', dl_btn: 'Download', dl_tables: 'Relational tables',
     dl_tables_sub: 'The complete database; tables are linked by doi, sample_id and measurement_id — for importing into a database or joining in R / Python.',
@@ -449,9 +449,9 @@ df = pd.read_csv(z.open('flat_solubility.csv'), encoding='utf-8-sig', low_memory
 df['is_model'] = df['data_origin'].str.contains('model-derived')
 soy = df[df['protein_source_std'].str.contains('Soybean', na=False)]
 print(soy.groupby('unit_std')['value_std'].describe())</pre>
-        <h3>许可与引用</h3><p>数据许可 CC BY 4.0：注明本数据库（网址和版本号），并引用数据所在的原始论文。</p>`],
+        <h3>许可与引用</h3><p>数据许可 CC BY-NC 4.0（仅限非商业用途）：注明本数据库（网址和版本号），并引用数据所在的原始论文。数据是在出版商的文本与数据挖掘条款和非商业研究的文本与数据挖掘例外（爱尔兰《2000 年版权及相关权利法》第 53A 条）下提取的，因此不得用于商业目的。</p>`],
       ['feedback', '反馈与补充数据', `<p>发现数据错误、想补充论文或建议新功能，欢迎在本网站的 GitHub 仓库提交 Issue（网站发布在 GitHub 上时，页面右上角有 GitHub 链接），写明 DOI 和样品编号。</p><p>也可以发邮件联系：Dongyang Xu（<a href="mailto:dongyang.xu@ucdconnect.ie">dongyang.xu@ucdconnect.ie</a>）、Zhenjiao Du（<a href="mailto:zhenjiao.du@ucd.ie">zhenjiao.du@ucd.ie</a>）。</p>`],
-      ['cite', '如何引用', `<p>PDF 的论文正在准备中。在那之前，请引用本网站网址（注明访问日期和版本号），并引用数据所在的原始论文（每条数据都附 DOI）。数据许可为 CC BY 4.0。</p>`],
+      ['cite', '如何引用', `<p>PDF 的论文正在准备中。在那之前，请引用本网站网址（注明访问日期和版本号），并引用数据所在的原始论文（每条数据都附 DOI）。数据许可为 CC BY-NC 4.0（仅限非商业用途）。</p>`],
     ],
     en: [
       ['quick', 'Quick start', `<ol>
@@ -523,9 +523,9 @@ df = pd.read_csv(z.open('flat_solubility.csv'), encoding='utf-8-sig', low_memory
 df['is_model'] = df['data_origin'].str.contains('model-derived')
 soy = df[df['protein_source_std'].str.contains('Soybean', na=False)]
 print(soy.groupby('unit_std')['value_std'].describe())</pre>
-        <h3>Licence and citation</h3><p>Data are licensed CC BY 4.0: credit this database (URL and version) and cite the original articles the data come from.</p>`],
+        <h3>Licence and citation</h3><p>Data are licensed CC BY-NC 4.0 (non-commercial use only): credit this database (URL and version) and cite the original articles the data come from. The data were extracted under the publishers’ text and data mining terms and the exception for text and data mining for non-commercial research (section 53A of the Irish Copyright and Related Rights Act 2000), so they may not be used for commercial purposes.</p>`],
       ['feedback', 'Feedback and contributions', `<p>To report an error, contribute papers or suggest a feature, please open an issue in this website’s GitHub repository (when the site is published on GitHub there is a GitHub link at the top right), giving the DOI and sample number.</p><p>You can also email the contacts: Dongyang Xu (<a href="mailto:dongyang.xu@ucdconnect.ie">dongyang.xu@ucdconnect.ie</a>) and Zhenjiao Du (<a href="mailto:zhenjiao.du@ucd.ie">zhenjiao.du@ucd.ie</a>).</p>`],
-      ['cite', 'How to cite', `<p>A paper describing PDF is in preparation. Until then, please cite this website (with access date and version) and the original articles (every record has a DOI). Data are licensed CC BY 4.0.</p>`],
+      ['cite', 'How to cite', `<p>A paper describing PDF is in preparation. Until then, please cite this website (with access date and version) and the original articles (every record has a DOI). Data are licensed CC BY-NC 4.0 (non-commercial use only).</p>`],
     ],
   };
   return { PROP_NAMES, PROP_GROUPS, PROP_SHORT, PROP_DEF, EN, ZH, ROUTINE_TT, TCAT_NAMES, I18N: { zh, en }, HELP };

@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/changelog"><img src="https://img.shields.io/badge/release-1.2-24634a" alt="Release 1.2"></a>
-  <a href="LICENSE-DATA.md"><img src="https://img.shields.io/badge/data-CC_BY_4.0-25658a" alt="Data license: CC BY 4.0"></a>
+  <a href="LICENSE-DATA.md"><img src="https://img.shields.io/badge/data-CC_BY--NC_4.0-25658a" alt="Data license: CC BY-NC 4.0"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-5c6370" alt="Code license: MIT"></a>
 </p>
 
@@ -199,7 +199,7 @@ python scripts/build_site_data.py --db <database-folder>
 
 ## 许可
 
-- 数据（`data/`）：[CC BY 4.0](LICENSE-DATA.md)——可以使用和再发布，须注明出处，并引用对应的原始论文。
+- 数据（`data/`）：[CC BY-NC 4.0](LICENSE-DATA.md)——可以在非商业用途下使用和再发布，须注明出处，并引用对应的原始论文。
 - 代码（网站和脚本）：[MIT](LICENSE)。
 
 由都柏林大学 [AI4FH 实验室](https://dzjxzyd.github.io/ai4fh-lab/)（Artificial Intelligence for Food & Health）开发。

@@ -377,7 +377,7 @@ class ZipCSV:
         self.txt.flush()
         self.txt.detach()
         self.raw.close()
-        for name, data in self.docs.items():                 # 说明和数据许可（CC BY 4.0）跟着每个下载文件走
+        for name, data in self.docs.items():                 # 说明和数据许可（CC BY-NC 4.0）跟着每个下载文件走
             self.z.writestr(self.info(name), data)
         self.z.close()
         os.replace(self.path + '.tmp', self.path)

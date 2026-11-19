@@ -658,7 +658,7 @@
   const ABOUT = () => [['PDF · Protein Database of Functionality'], [location.href], ['version', D.meta.release ? D.meta.release.version : ''],
     ['data_updated', D.meta.built], ['exported', new Date().toISOString().slice(0, 19).replace('T', ' ')],
     ['data_origin', '来源于模型 (model-derived) = value read from a figure by a model (estimate); 作者原值 (author-reported) = value from a table or the main text; * in wide tables = model-derived'],
-    ['license', 'Data CC BY 4.0 — please cite this database and the original articles (DOI)']];
+    ['license', 'Data CC BY-NC 4.0 (non-commercial use only) — please cite this database and the original articles (DOI)']];
   async function prepareChunks(ks, nRows) {
     const need = [...new Set(ks)].filter((k) => !D.chunkData[k]);
     if (need.length > 8 && !confirm(t('ex_confirm', { n: fmt(nRows || 0), k: need.length }))) return false;

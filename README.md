@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/changelog"><img src="https://img.shields.io/badge/release-1.2-24634a" alt="Release 1.2"></a>
-  <a href="LICENSE-DATA.md"><img src="https://img.shields.io/badge/data-CC_BY_4.0-25658a" alt="Data license: CC BY 4.0"></a>
+  <a href="LICENSE-DATA.md"><img src="https://img.shields.io/badge/data-CC_BY--NC_4.0-25658a" alt="Data license: CC BY-NC 4.0"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-5c6370" alt="Code license: MIT"></a>
 </p>
 
@@ -188,7 +188,7 @@ The website is fully static (`index.html` + `assets/`: `i18n.js` text, `core.js`
 
 ## License
 
-- Data (`data/`): [CC BY 4.0](LICENSE-DATA.md) — free to use and redistribute with attribution; please also cite the original articles.
+- Data (`data/`): [CC BY-NC 4.0](LICENSE-DATA.md) — free to use and redistribute for non-commercial purposes with attribution; please also cite the original articles.
 - Code (website and scripts): [MIT](LICENSE).
 
 Developed by the [AI4FH Lab](https://dzjxzyd.github.io/ai4fh-lab/) (Artificial Intelligence for Food & Health), University College Dublin.
