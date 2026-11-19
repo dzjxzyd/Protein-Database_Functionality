@@ -116,7 +116,7 @@ window.PDF_TEXT = (() => {
     // 页脚
     f_data_1: '数据许可 CC BY 4.0，代码 MIT', f_cite: '如何引用', f_feedback: '反馈',
     f_built: '数据更新：{d}', f_version: '版本 {v}',
-    f_copy: '论文版权归原作者和出版商所有', f_lab: '开发：',
+    f_copy: '论文版权归原作者和出版商所有', f_lab: '开发：', f_contact: '联系：',
     // 分面、通用
     f_prop: '功能特性', f_src: '蛋白来源', f_pcat: '蛋白类别', f_form: '蛋白形态', f_tt: '样品处理类型', f_tcat: '样品处理类别',
     f_method: '测试方法', f_sys: '体系', f_journal: '期刊', f_unit: '单位', f_origin: '数据来源', f_paper: '论文', f_q: '关键词',
@@ -253,7 +253,7 @@ window.PDF_TEXT = (() => {
     no_stream: 'This browser is too old to decompress the data. Please use a recent Chrome, Edge, Firefox or Safari.',
     f_data_1: 'Data CC BY 4.0, code MIT', f_cite: 'How to cite', f_feedback: 'Feedback',
     f_built: 'Data updated {d}', f_version: 'Version {v}',
-    f_copy: 'Article copyright remains with the authors and publishers', f_lab: 'Developed by ',
+    f_copy: 'Article copyright remains with the authors and publishers', f_lab: 'Developed by ', f_contact: 'Contact: ',
     f_prop: 'Functional property', f_src: 'Protein source', f_pcat: 'Protein category', f_form: 'Protein form',
     f_tt: 'Sample treatment type', f_tcat: 'Sample treatment category', f_method: 'Test method', f_sys: 'System', f_journal: 'Journal',
     f_unit: 'Unit', f_origin: 'Data origin', f_paper: 'Paper', f_q: 'Keyword', f_batch: 'Batch', f_adv: 'Query', f_sd: 'With SD',
@@ -450,7 +450,7 @@ df['is_model'] = df['data_origin'].str.contains('model-derived')
 soy = df[df['protein_source_std'].str.contains('Soybean', na=False)]
 print(soy.groupby('unit_std')['value_std'].describe())</pre>
         <h3>许可与引用</h3><p>数据许可 CC BY 4.0：注明本数据库（网址和版本号），并引用数据所在的原始论文。</p>`],
-      ['feedback', '反馈与补充数据', `<p>发现数据错误、想补充论文或建议新功能，欢迎在本网站的 GitHub 仓库提交 Issue（网站发布在 GitHub 上时，页面右上角有 GitHub 链接），写明 DOI 和样品编号。</p>`],
+      ['feedback', '反馈与补充数据', `<p>发现数据错误、想补充论文或建议新功能，欢迎在本网站的 GitHub 仓库提交 Issue（网站发布在 GitHub 上时，页面右上角有 GitHub 链接），写明 DOI 和样品编号。</p><p>也可以发邮件联系：Dongyang Xu（<a href="mailto:dongyang.xu@ucdconnect.ie">dongyang.xu@ucdconnect.ie</a>）、Zhenjiao Du（<a href="mailto:zhenjiao.du@ucd.ie">zhenjiao.du@ucd.ie</a>）。</p>`],
       ['cite', '如何引用', `<p>PDF 的论文正在准备中。在那之前，请引用本网站网址（注明访问日期和版本号），并引用数据所在的原始论文（每条数据都附 DOI）。数据许可为 CC BY 4.0。</p>`],
     ],
     en: [
@@ -524,7 +524,7 @@ df['is_model'] = df['data_origin'].str.contains('model-derived')
 soy = df[df['protein_source_std'].str.contains('Soybean', na=False)]
 print(soy.groupby('unit_std')['value_std'].describe())</pre>
         <h3>Licence and citation</h3><p>Data are licensed CC BY 4.0: credit this database (URL and version) and cite the original articles the data come from.</p>`],
-      ['feedback', 'Feedback and contributions', `<p>To report an error, contribute papers or suggest a feature, please open an issue in this website’s GitHub repository (when the site is published on GitHub there is a GitHub link at the top right), giving the DOI and sample number.</p>`],
+      ['feedback', 'Feedback and contributions', `<p>To report an error, contribute papers or suggest a feature, please open an issue in this website’s GitHub repository (when the site is published on GitHub there is a GitHub link at the top right), giving the DOI and sample number.</p><p>You can also email the contacts: Dongyang Xu (<a href="mailto:dongyang.xu@ucdconnect.ie">dongyang.xu@ucdconnect.ie</a>) and Zhenjiao Du (<a href="mailto:zhenjiao.du@ucd.ie">zhenjiao.du@ucd.ie</a>).</p>`],
       ['cite', 'How to cite', `<p>A paper describing PDF is in preparation. Until then, please cite this website (with access date and version) and the original articles (every record has a DOI). Data are licensed CC BY 4.0.</p>`],
     ],
   };

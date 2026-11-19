@@ -181,6 +181,11 @@ The website is fully static (`index.html` + `assets/`: `i18n.js` text, `core.js`
 
 </details>
 
+## Contact
+
+- Dongyang Xu — [dongyang.xu@ucdconnect.ie](mailto:dongyang.xu@ucdconnect.ie)
+- Zhenjiao Du — [zhenjiao.du@ucd.ie](mailto:zhenjiao.du@ucd.ie)
+
 ## License
 
 - Data (`data/`): [CC BY 4.0](LICENSE-DATA.md) — free to use and redistribute with attribution; please also cite the original articles.

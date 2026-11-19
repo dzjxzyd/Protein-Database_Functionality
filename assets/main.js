@@ -56,7 +56,8 @@
     if (D.meta) items.push(esc(t('f_built', { d: D.meta.built })));
     items.push(esc(t('f_data_1')), `<a href="#/help?s=cite">${esc(t('f_cite'))}</a>`, `<a href="#/help?s=feedback">${esc(t('f_feedback'))}</a>`);
     if (repo) items.push(`<a href="${repo}" target="_blank" rel="noopener">GitHub</a>`);
-    items.push(`${esc(t('f_lab'))}<a href="https://dzjxzyd.github.io/ai4fh-lab/" target="_blank" rel="noopener">AI4FH Lab</a> · UCD`, esc(t('f_copy')));
+    items.push(`${esc(t('f_lab'))}<a href="https://dzjxzyd.github.io/ai4fh-lab/" target="_blank" rel="noopener">AI4FH Lab</a> · UCD`);
+    items.push(`${esc(t('f_contact'))}Dongyang Xu <a href="mailto:dongyang.xu@ucdconnect.ie">dongyang.xu@ucdconnect.ie</a> · Zhenjiao Du <a href="mailto:zhenjiao.du@ucd.ie">zhenjiao.du@ucd.ie</a>`, esc(t('f_copy')));
     $('foot').innerHTML = `<div class="wrap foot-line">${items.map((x) => `<span>${x}</span>`).join('')}</div>`;
   }
   function applyStatic() {

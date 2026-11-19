@@ -46,3 +46,7 @@ print(soy.groupby('unit_std')['value_std'].describe())
 ## Citation and licence
 
 Data: CC BY 4.0. Credit "PDF · Protein Database of Functionality" (URL and version from manifest.json) and cite the original articles the values come from. Code: MIT.
+
+## Contact
+
+Errors, missing papers or questions: Dongyang Xu <dongyang.xu@ucdconnect.ie>; Zhenjiao Du <zhenjiao.du@ucd.ie>.

@@ -192,6 +192,11 @@ python scripts/build_site_data.py --db <database-folder>
 
 </details>
 
+## 联系方式
+
+- Dongyang Xu — [dongyang.xu@ucdconnect.ie](mailto:dongyang.xu@ucdconnect.ie)
+- Zhenjiao Du — [zhenjiao.du@ucd.ie](mailto:zhenjiao.du@ucd.ie)
+
 ## 许可
 
 - 数据（`data/`）：[CC BY 4.0](LICENSE-DATA.md)——可以使用和再发布，须注明出处，并引用对应的原始论文。
