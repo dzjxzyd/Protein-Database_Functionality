@@ -152,6 +152,10 @@ The website needs JavaScript, so an AI agent fetching it sees no content. Agents
 Use the PDF protein functionality database at https://dzjxzyd.github.io/Protein-Database_Functionality/ . Read https://dzjxzyd.github.io/Protein-Database_Functionality/llms.txt first, then download the files listed in https://dzjxzyd.github.io/Protein-Database_Functionality/data/download/manifest.json . Values whose data_origin contains "model-derived" are estimates read from figures. Give the DOI for every number you report.
 ```
 
+## Workflow code
+
+The code used to build the database (article acquisition, figure reading with vision–language models, data extraction and database construction) and the data of the VLM ground-truth benchmark are in [`workflow/`](workflow/README.md).
+
 ## Development
 
 ### Preview locally
@@ -190,6 +194,7 @@ The website is fully static (`index.html` + `assets/`: `i18n.js` text, `core.js`
 
 - Data (`data/`): [CC BY-NC 4.0](LICENSE-DATA.md) — free to use and redistribute for non-commercial purposes with attribution; please also cite the original articles.
 - Code (website and scripts): [MIT](LICENSE).
+- Workflow (`workflow/`): code under [MIT](LICENSE); benchmark data and DOI lists under [CC BY-NC 4.0](LICENSE-DATA.md).
 
 Developed by the [AI4FH Lab](https://dzjxzyd.github.io/ai4fh-lab/) (Artificial Intelligence for Food & Health), University College Dublin.
 

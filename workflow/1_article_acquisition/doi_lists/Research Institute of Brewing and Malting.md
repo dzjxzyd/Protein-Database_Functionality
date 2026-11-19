@@ -1,0 +1,14 @@
+https://doi.org/10.18832/kp2026.72.1215
+https://doi.org/10.18832/kp2026.72.1229
+https://doi.org/10.18832/kp2021.67.523
+https://doi.org/10.18832/kp201838
+https://doi.org/10.18832/kp2015027
+https://doi.org/10.18832/kp2013040
+https://doi.org/10.18832/kp2011029
+https://doi.org/10.18832/kp2010009
+https://doi.org/10.18832/kp2010010
+https://doi.org/10.18832/kp2009014
+https://doi.org/10.18832/kp2008016
+https://doi.org/10.18832/kp2007005
+https://doi.org/10.18832/kp2006026
+https://doi.org/10.18832/kp2006007

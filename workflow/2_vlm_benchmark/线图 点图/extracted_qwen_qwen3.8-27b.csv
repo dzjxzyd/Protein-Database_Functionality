@@ -1,0 +1,199 @@
+﻿图片名,子图,系列,点编号,X类别/数值,Y值,X单位,Y单位,误差棒下限,误差棒上限,备注
+Figure1.png,NA,Solubility,1,Control,83.0,,%,81.0,84.5,估算; 显著性=a; Y轴非零起点
+Figure1.png,NA,Solubility,2,P-4,75.0,,%,74.0,76.0,显著性=b; Y轴非零起点
+Figure1.png,NA,Solubility,3,P,70.0,,%,68.5,71.5,显著性=bc; Y轴非零起点
+Figure1.png,NA,Solubility,4,8h,66.0,,%,65.5,66.5,估算; 显著性=cd; Y轴非零起点
+Figure1.png,NA,Solubility,5,P-8,61.5,,%,60.5,62.5,估算; 显著性=de; Y轴非零起点
+Figure1.png,NA,Solubility,6,12h,58.0,,%,56.5,59.5,估算; 显著性=e; Y轴非零起点
+Figure1.png,NA,Turbidity,1,Control,0.235,,,0.21,0.255,估算; 显著性=c; Y轴非零起点
+Figure1.png,NA,Turbidity,2,P-4,0.25,,,0.23,0.27,显著性=c; Y轴非零起点
+Figure1.png,NA,Turbidity,3,P,0.275,,,0.26,0.295,估算; 显著性=bc; Y轴非零起点
+Figure1.png,NA,Turbidity,4,8h,0.285,,,0.275,0.3,估算; 显著性=bc; Y轴非零起点
+Figure1.png,NA,Turbidity,5,P-8,0.405,,,0.39,0.42,估算; 显著性=b; Y轴非零起点
+Figure1.png,NA,Turbidity,6,12h,0.565,,,0.54,0.59,估算; 显著性=a; Y轴非零起点
+Figure2.png,NA,12h,1,0.0,3.0,mM,%,NA,NA,估算; 各系列在x=0处高度重叠，估读
+Figure2.png,NA,12h,2,10.0,19.0,mM,%,NA,NA,估算; 该点明显低于其他系列
+Figure2.png,NA,12h,3,20.0,41.0,mM,%,NA,NA,估算
+Figure2.png,NA,12h,4,40.0,77.0,mM,%,NA,NA,估算; 该点明显低于其他系列
+Figure2.png,NA,12h,5,60.0,100.0,mM,%,NA,NA,对齐100刻度线
+Figure2.png,NA,8h,1,0.0,3.0,mM,%,NA,NA,估算; 各系列在x=0处高度重叠，估读
+Figure2.png,NA,8h,2,10.0,26.0,mM,%,NA,NA,估算
+Figure2.png,NA,8h,3,20.0,45.0,mM,%,NA,NA,估算
+Figure2.png,NA,8h,4,40.0,89.0,mM,%,NA,NA,估算; 与P、P-8聚集
+Figure2.png,NA,8h,5,60.0,100.0,mM,%,NA,NA,对齐100刻度线
+Figure2.png,NA,Control,1,0.0,2.0,mM,%,NA,NA,估算; 各系列在x=0处高度重叠，估读
+Figure2.png,NA,Control,2,10.0,27.0,mM,%,NA,NA,估算; 该点为x=10处最高
+Figure2.png,NA,Control,3,20.0,52.0,mM,%,NA,NA,估算; 该点为x=20处最高
+Figure2.png,NA,Control,4,40.0,105.0,mM,%,NA,NA,估算; 略高于100刻度线，为x=40处最高
+Figure2.png,NA,Control,5,60.0,100.0,mM,%,NA,NA,对齐100刻度线
+Figure2.png,NA,P,1,0.0,3.0,mM,%,NA,NA,估算; 各系列在x=0处高度重叠，估读
+Figure2.png,NA,P,2,10.0,23.0,mM,%,NA,NA,估算
+Figure2.png,NA,P,3,20.0,41.0,mM,%,NA,NA,估算
+Figure2.png,NA,P,4,40.0,90.0,mM,%,NA,NA,估算; 与P-8、8h聚集
+Figure2.png,NA,P,5,60.0,100.0,mM,%,NA,NA,对齐100刻度线
+Figure2.png,NA,P-4,1,0.0,3.0,mM,%,NA,NA,估算; 各系列在x=0处高度重叠，估读
+Figure2.png,NA,P-4,2,10.0,25.0,mM,%,NA,NA,估算
+Figure2.png,NA,P-4,3,20.0,40.0,mM,%,NA,NA,估算
+Figure2.png,NA,P-4,4,40.0,97.0,mM,%,NA,NA,估算
+Figure2.png,NA,P-4,5,60.0,100.0,mM,%,NA,NA,对齐100刻度线
+Figure2.png,NA,P-8,1,0.0,4.0,mM,%,NA,NA,估算; 各系列在x=0处高度重叠，估读
+Figure2.png,NA,P-8,2,10.0,24.0,mM,%,NA,NA,估算
+Figure2.png,NA,P-8,3,20.0,49.0,mM,%,NA,NA,估算
+Figure2.png,NA,P-8,4,40.0,91.0,mM,%,NA,NA,估算; 与P、8h聚集
+Figure2.png,NA,P-8,5,60.0,100.0,mM,%,NA,NA,对齐100刻度线
+Figure3.png,NA,12h,1,0.0,100.0,%,%/o,NA,NA,
+Figure3.png,NA,12h,2,0.2,58.0,%,%/o,NA,NA,估算
+Figure3.png,NA,12h,3,0.5,82.0,%,%/o,NA,NA,估算
+Figure3.png,NA,12h,4,0.8,93.0,%,%/o,NA,NA,估算
+Figure3.png,NA,12h,5,1.0,90.0,%,%/o,NA,NA,估算
+Figure3.png,NA,8h,1,0.0,100.0,%,%/o,NA,NA,
+Figure3.png,NA,8h,2,0.2,68.0,%,%/o,NA,NA,估算
+Figure3.png,NA,8h,3,0.5,84.0,%,%/o,NA,NA,估算
+Figure3.png,NA,8h,4,0.8,89.0,%,%/o,NA,NA,估算
+Figure3.png,NA,8h,5,1.0,86.0,%,%/o,NA,NA,估算
+Figure3.png,NA,Control,1,0.0,100.0,%,%/o,NA,NA,
+Figure3.png,NA,Control,2,0.2,93.0,%,%/o,NA,NA,估算
+Figure3.png,NA,Control,3,0.5,100.0,%,%/o,NA,NA,
+Figure3.png,NA,Control,4,0.8,95.0,%,%/o,NA,NA,估算
+Figure3.png,NA,Control,5,1.0,93.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P,1,0.0,100.0,%,%/o,NA,NA,
+Figure3.png,NA,P,2,0.2,49.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P,3,0.5,83.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P,4,0.8,89.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P,5,1.0,88.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-4,1,0.0,100.0,%,%/o,NA,NA,
+Figure3.png,NA,P-4,2,0.2,34.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-4,3,0.5,83.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-4,4,0.8,92.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-4,5,1.0,89.0,%,%/o,NA,NA,估算; 红圆在1.0处与其他点重叠，归属依据颜色+标记判断，估读
+Figure3.png,NA,P-8,1,0.0,100.0,%,%/o,NA,NA,
+Figure3.png,NA,P-8,2,0.2,38.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-8,3,0.5,81.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-8,4,0.8,96.0,%,%/o,NA,NA,估算
+Figure3.png,NA,P-8,5,1.0,94.0,%,%/o,NA,NA,估算
+Figure4.png,NA,12h,1,0.0,100.0,M,%,NA,NA,
+Figure4.png,NA,12h,2,0.6,62.0,M,%,NA,NA,估算
+Figure4.png,NA,12h,3,1.2,43.0,M,%,NA,NA,估算
+Figure4.png,NA,12h,4,2.4,32.0,M,%,NA,NA,估算
+Figure4.png,NA,8h,1,0.0,99.0,M,%,NA,NA,估算
+Figure4.png,NA,8h,2,0.6,71.0,M,%,NA,NA,估算
+Figure4.png,NA,8h,3,1.2,35.0,M,%,NA,NA,估算
+Figure4.png,NA,8h,4,2.4,26.0,M,%,NA,NA,估算
+Figure4.png,NA,Control,1,0.0,100.0,M,%,NA,NA,
+Figure4.png,NA,Control,2,0.6,96.0,M,%,NA,NA,估算
+Figure4.png,NA,Control,3,1.2,68.0,M,%,NA,NA,估算
+Figure4.png,NA,Control,4,2.4,8.0,M,%,NA,NA,估算
+Figure4.png,NA,P,1,0.0,99.0,M,%,NA,NA,估算
+Figure4.png,NA,P,2,0.6,92.0,M,%,NA,NA,估算
+Figure4.png,NA,P,3,1.2,33.0,M,%,NA,NA,估算
+Figure4.png,NA,P,4,2.4,27.0,M,%,NA,NA,估算
+Figure4.png,NA,P-4,1,0.0,98.0,M,%,NA,NA,估算
+Figure4.png,NA,P-4,2,0.6,79.0,M,%,NA,NA,估算
+Figure4.png,NA,P-4,3,1.2,40.0,M,%,NA,NA,
+Figure4.png,NA,P-4,4,2.4,32.0,M,%,NA,NA,估算
+Figure4.png,NA,P-8,1,0.0,99.0,M,%,NA,NA,估算
+Figure4.png,NA,P-8,2,0.6,71.0,M,%,NA,NA,估算
+Figure4.png,NA,P-8,3,1.2,44.0,M,%,NA,NA,估算
+Figure4.png,NA,P-8,4,2.4,34.0,M,%,NA,NA,估算
+Figure6.png,NA,Traditional water bath,1,0.0,2800.0,Hours,NA,2700.0,2900.0,估算; 显著性=f
+Figure6.png,NA,Traditional water bath,2,2.0,8200.0,Hours,NA,8000.0,8400.0,估算; 显著性=e
+Figure6.png,NA,Traditional water bath,3,4.0,18300.0,Hours,NA,18100.0,18500.0,估算; 显著性=d
+Figure6.png,NA,Traditional water bath,4,6.0,21200.0,Hours,NA,21000.0,21400.0,估算; 显著性=c
+Figure6.png,NA,Traditional water bath,5,8.0,22500.0,Hours,NA,22300.0,22700.0,估算; 显著性=b
+Figure6.png,NA,Traditional water bath,6,10.0,23800.0,Hours,NA,23600.0,24000.0,估算; 显著性=a
+Figure6.png,NA,Traditional water bath,7,12.0,23800.0,Hours,NA,23600.0,24000.0,估算; 显著性=a
+Figure6.png,NA,Water bath after PEF,1,0.0,2800.0,Hours,NA,2700.0,2900.0,估算; 显著性=e
+Figure6.png,NA,Water bath after PEF,2,2.0,9700.0,Hours,NA,9500.0,9900.0,估算; 显著性=d
+Figure6.png,NA,Water bath after PEF,3,4.0,24500.0,Hours,NA,24300.0,24700.0,估算; 显著性=c
+Figure6.png,NA,Water bath after PEF,4,6.0,27600.0,Hours,NA,27400.0,27800.0,估算; 显著性=a
+Figure6.png,NA,Water bath after PEF,5,8.0,26000.0,Hours,NA,25800.0,26200.0,估算; 显著性=b
+Figure6.png,NA,Water bath after PEF,6,10.0,24600.0,Hours,NA,24400.0,24800.0,估算; 显著性=c
+Figure6.png,NA,Water bath after PEF,7,12.0,24600.0,Hours,NA,24400.0,24800.0,估算; 显著性=c
+Figure9.png,NA,Control,1,0,30.0,d,%,28.0,32.0,估算; Y轴起点非0，按刻度线插值；无显著性字母; Y轴非零起点
+Figure9.png,NA,Control,2,3,41.0,d,%,39.0,43.0,估算; 显著性=a; Y轴非零起点
+Figure9.png,NA,Control,3,6,45.0,d,%,43.0,47.0,估算; 显著性=a; Y轴非零起点
+Figure9.png,NA,Control,4,9,50.0,d,%,47.0,53.0,估算; 显著性=a; Y轴非零起点
+Figure9.png,NA,Control,5,12,53.0,d,%,51.0,55.0,估算; 显著性=a; 该系列峰值; Y轴非零起点
+Figure9.png,NA,Control,6,15,48.0,d,%,46.0,50.0,估算; 无显著性字母; Y轴非零起点
+Figure9.png,NA,Control,7,18,43.0,d,%,41.0,45.0,估算; 显著性=a; Y轴非零起点
+Figure9.png,NA,Control,8,24,33.0,d,%,32.0,34.0,估算; 无显著性字母；21处无数据点，折线由18直连24; Y轴非零起点
+Figure9.png,NA,PEF,1,0,29.0,d,%,27.0,31.0,估算; Y轴起点非0，按刻度线插值；无显著性字母；与Control点几乎重合; Y轴非零起点
+Figure9.png,NA,PEF,2,3,34.0,d,%,32.0,36.0,估算; 显著性=b; Y轴非零起点
+Figure9.png,NA,PEF,3,6,41.0,d,%,39.0,43.0,估算; 显著性=b; Y轴非零起点
+Figure9.png,NA,PEF,4,9,44.0,d,%,42.0,46.0,估算; 显著性=b; Y轴非零起点
+Figure9.png,NA,PEF,5,12,46.0,d,%,44.0,48.0,估算; 显著性=b; Y轴非零起点
+Figure9.png,NA,PEF,6,15,47.0,d,%,45.0,49.0,估算; 无显著性字母; Y轴非零起点
+Figure9.png,NA,PEF,7,18,40.0,d,%,38.0,42.0,估算; 显著性=b; Y轴非零起点
+Figure9.png,NA,PEF,8,24,32.0,d,%,31.0,33.0,估算; 无显著性字母；21处无数据点; Y轴非零起点
+Figure10.png,NA,Control,1,0,3.5,d,nmol g-1 FW,3.2,3.8,估算
+Figure10.png,NA,Control,2,3,5.5,d,nmol g-1 FW,5.0,6.0,估算; 显著性=a
+Figure10.png,NA,Control,3,6,5.2,d,nmol g-1 FW,4.7,5.7,估算; 显著性=a
+Figure10.png,NA,Control,4,9,6.2,d,nmol g-1 FW,5.5,6.8,估算; 显著性=a
+Figure10.png,NA,Control,5,12,7.2,d,nmol g-1 FW,6.5,7.8,估算; 显著性=a
+Figure10.png,NA,Control,6,15,9.7,d,nmol g-1 FW,9.0,10.4,估算; 显著性=a
+Figure10.png,NA,Control,7,18,8.5,d,nmol g-1 FW,8.0,9.0,估算; 显著性=a
+Figure10.png,NA,Control,8,21,7.8,d,nmol g-1 FW,7.2,8.4,估算; 显著性=a
+Figure10.png,NA,Control,9,24,7.2,d,nmol g-1 FW,6.5,7.9,估算; 显著性=a
+Figure10.png,NA,PEF,1,0,3.5,d,nmol g-1 FW,3.2,3.8,估算
+Figure10.png,NA,PEF,2,3,4.8,d,nmol g-1 FW,4.2,5.4,估算; 显著性=b
+Figure10.png,NA,PEF,3,6,4.6,d,nmol g-1 FW,3.9,5.3,估算; 显著性=b
+Figure10.png,NA,PEF,4,9,4.6,d,nmol g-1 FW,4.0,5.2,估算; 显著性=b
+Figure10.png,NA,PEF,5,12,5.6,d,nmol g-1 FW,4.9,6.3,估算; 显著性=b
+Figure10.png,NA,PEF,6,15,8.3,d,nmol g-1 FW,7.8,8.8,估算; 显著性=b
+Figure10.png,NA,PEF,7,18,6.3,d,nmol g-1 FW,5.8,6.8,估算; 显著性=b
+Figure10.png,NA,PEF,8,21,6.5,d,nmol g-1 FW,5.9,7.1,估算; 显著性=b
+Figure10.png,NA,PEF,9,24,6.4,d,nmol g-1 FW,5.7,7.1,估算; 显著性=b
+Figure11.png,NA,Control,1,0,29.0,NA,NA,27.5,30.5,估算; Y轴非零起点
+Figure11.png,NA,Control,2,3,42.0,NA,NA,40.5,43.5,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,3,6,51.0,NA,NA,48.5,53.5,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,4,9,60.0,NA,NA,58.0,62.0,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,5,12,67.0,NA,NA,65.0,69.0,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,6,15,65.0,NA,NA,63.0,67.0,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,7,18,61.0,NA,NA,59.0,63.0,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,8,21,56.0,NA,NA,54.0,58.0,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,Control,9,24,53.0,NA,NA,51.5,54.5,估算; 显著性=a; Y轴非零起点
+Figure11.png,NA,PEF,1,0,28.5,NA,NA,26.5,30.5,估算; Y轴非零起点
+Figure11.png,NA,PEF,2,3,37.0,NA,NA,34.5,39.5,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,3,6,41.0,NA,NA,38.5,43.5,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,4,9,51.5,NA,NA,49.5,53.5,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,5,12,58.0,NA,NA,56.0,60.0,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,6,15,62.0,NA,NA,60.0,64.0,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,7,18,56.0,NA,NA,54.0,58.0,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,8,21,52.0,NA,NA,50.5,53.5,估算; 显著性=b; Y轴非零起点
+Figure11.png,NA,PEF,9,24,50.5,NA,NA,49.0,52.0,估算; 显著性=b; Y轴非零起点
+Figure12.png,NA,Control,1,0,1.9,d,mmol·kg-1 FW,1.6,2.3,估算; 显著性=a
+Figure12.png,NA,Control,2,3,3.7,d,mmol·kg-1 FW,2.8,4.6,估算; 显著性=a
+Figure12.png,NA,Control,3,6,6.2,d,mmol·kg-1 FW,5.3,7.3,估算; 显著性=a
+Figure12.png,NA,Control,4,9,7.5,d,mmol·kg-1 FW,7.0,8.4,估算; 显著性=a
+Figure12.png,NA,Control,5,12,7.4,d,mmol·kg-1 FW,6.9,8.4,估算; 显著性=a
+Figure12.png,NA,Control,6,15,8.3,d,mmol·kg-1 FW,7.7,9.3,估算; 显著性=a
+Figure12.png,NA,Control,7,18,7.8,d,mmol·kg-1 FW,7.3,8.5,估算; 显著性=a
+Figure12.png,NA,Control,8,21,7.9,d,mmol·kg-1 FW,7.3,8.6,估算; 显著性=a
+Figure12.png,NA,Control,9,24,7.5,d,mmol·kg-1 FW,6.7,8.4,估算; 显著性=a
+Figure12.png,NA,PEF,1,0,1.7,d,mmol·kg-1 FW,1.4,2.0,估算; 显著性=b; d=0 时与 Control 几乎重叠
+Figure12.png,NA,PEF,2,3,2.4,d,mmol·kg-1 FW,2.0,2.9,估算; 显著性=b
+Figure12.png,NA,PEF,3,6,4.2,d,mmol·kg-1 FW,3.8,4.6,估算; 显著性=b
+Figure12.png,NA,PEF,4,9,6.2,d,mmol·kg-1 FW,5.8,6.6,估算; 显著性=b
+Figure12.png,NA,PEF,5,12,6.5,d,mmol·kg-1 FW,6.1,7.0,估算; 显著性=b
+Figure12.png,NA,PEF,6,15,7.4,d,mmol·kg-1 FW,7.0,7.9,估算; 显著性=b
+Figure12.png,NA,PEF,7,18,7.2,d,mmol·kg-1 FW,6.6,7.8,估算; 显著性=b
+Figure12.png,NA,PEF,8,21,7.4,d,mmol·kg-1 FW,7.0,7.9,估算; 显著性=b
+Figure12.png,NA,PEF,9,24,6.9,d,mmol·kg-1 FW,6.5,7.4,估算; 显著性=b
+Figure13.png,NA,Transmittance,1,0.0,11.8,kV/cm,%,10.9,12.7,估算; 显著性=f; Y轴非零起点，按刻度插值; Y轴非零起点
+Figure13.png,NA,Transmittance,2,1.1,14.1,kV/cm,%,13.7,14.4,估算; 显著性=e; Y轴非零起点
+Figure13.png,NA,Transmittance,3,1.8,17.1,kV/cm,%,16.6,17.4,估算; 显著性=d; Y轴非零起点
+Figure13.png,NA,Transmittance,4,2.5,32.3,kV/cm,%,30.9,33.6,估算; 显著性=a; Y轴非零起点
+Figure13.png,NA,Transmittance,5,3.1,24.5,kV/cm,%,24.1,24.9,估算; 显著性=b; Y轴非零起点
+Figure13.png,NA,Transmittance,6,3.8,20.9,kV/cm,%,20.3,22.0,估算; 显著性=c; Y轴非零起点
+Figure14.png,NA,Transmittance,1,0.0,11.8,s,%,11.0,12.4,估算; 显著性=cd; Y轴非零起点
+Figure14.png,NA,Transmittance,2,20.0,11.0,s,%,10.7,11.3,估算; 显著性=d; Y轴非零起点
+Figure14.png,NA,Transmittance,3,30.0,14.9,s,%,14.7,15.3,估算; 显著性=b; Y轴非零起点
+Figure14.png,NA,Transmittance,4,40.0,24.6,s,%,24.2,25.0,估算; 显著性=a; Y轴非零起点
+Figure14.png,NA,Transmittance,5,50.0,15.1,s,%,14.8,15.4,估算; 显著性=b; Y轴非零起点
+Figure14.png,NA,Transmittance,6,60.0,12.4,s,%,12.3,12.5,估算; 显著性=c; Y轴非零起点
+Figure16.png,NA,Transmittance,1,0,11.8,Hz,%,11.0,12.4,估算; 显著性=c; Y轴非零起点
+Figure16.png,NA,Transmittance,2,1,12.6,Hz,%,12.1,13.1,估算; 显著性=bc; Y轴非零起点
+Figure16.png,NA,Transmittance,3,10,13.6,Hz,%,12.8,14.5,估算; 显著性=b; Y轴非零起点
+Figure16.png,NA,Transmittance,4,30,24.2,Hz,%,23.0,25.2,估算; 显著性=a; Y轴非零起点
+Figure16.png,NA,Transmittance,5,50,20.4,Hz,%,19.3,21.5,估算; 显著性=a; Y轴非零起点
+Figure16.png,NA,Transmittance,6,70,13.9,Hz,%,13.2,14.3,估算; 显著性=b; Y轴非零起点

@@ -1,0 +1,16 @@
+https://doi.org/10.17660/th2022/025
+https://doi.org/10.17660/th2022/017
+https://doi.org/10.17660/th2021/76.6.5
+https://doi.org/10.17660/th2020/75.6.1
+https://doi.org/10.17660/th2019/74.5.3
+https://doi.org/10.17660/th2018/73.5.4
+https://doi.org/10.1051/fruits/2015002
+https://doi.org/10.1051/fruits/2014028
+https://doi.org/10.1051/fruits/2014034
+https://doi.org/10.1051/fruits/2012010
+https://doi.org/10.1051/fruits/2011046
+https://doi.org/10.1051/fruits/2010030
+https://doi.org/10.1051/fruits/2009013
+https://doi.org/10.1051/fruits:2007043
+https://doi.org/10.1051/fruits:2008014
+https://doi.org/10.1051/fruits:2007049

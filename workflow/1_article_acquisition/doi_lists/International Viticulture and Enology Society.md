@@ -1,0 +1,12 @@
+https://doi.org/10.20870/oeno-one.2026.60.2.9744
+https://doi.org/10.20870/oeno-one.2025.59.1.8305
+https://doi.org/10.20870/oeno-one.2025.59.2.8485
+https://doi.org/10.20870/oeno-one.2023.57.3.7463
+https://doi.org/10.20870/oeno-one.2023.57.2.7264
+https://doi.org/10.20870/oeno-one.2022.56.2.5399
+https://doi.org/10.20870/oeno-one.2022.56.1.4699
+https://doi.org/10.20870/oeno-one.2022.56.2.5394
+https://doi.org/10.20870/oeno-one.2022.56.2.5451
+https://doi.org/10.20870/oeno-one.2020.54.1.2952
+https://doi.org/10.20870/oeno-one.2020.54.2.2948
+https://doi.org/10.20870/oeno-one.2017.51.2.1816

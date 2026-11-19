@@ -161,6 +161,10 @@ data_origin 含 model-derived 的数值是模型从图中读取的估计值。
 报告每个数值时请给出对应论文的 DOI。
 ```
 
+## 建库流程代码
+
+建库用的代码（文章内容获取、视觉语言模型读图、数据提取和建库）以及 VLM 真值基准的数据在 [`workflow/`](workflow/README.md)（说明为英文）。
+
 ## 开发与维护
 
 ### 本地预览
@@ -201,6 +205,7 @@ python scripts/build_site_data.py --db <database-folder>
 
 - 数据（`data/`）：[CC BY-NC 4.0](LICENSE-DATA.md)——可以在非商业用途下使用和再发布，须注明出处，并引用对应的原始论文。
 - 代码（网站和脚本）：[MIT](LICENSE)。
+- 建库流程（`workflow/`）：代码 [MIT](LICENSE)，基准数据和 DOI 清单 [CC BY-NC 4.0](LICENSE-DATA.md)。
 
 由都柏林大学 [AI4FH 实验室](https://dzjxzyd.github.io/ai4fh-lab/)（Artificial Intelligence for Food & Health）开发。
 

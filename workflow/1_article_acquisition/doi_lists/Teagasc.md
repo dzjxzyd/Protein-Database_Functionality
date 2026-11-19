@@ -1,0 +1,10 @@
+https://doi.org/10.15212/ijafr-2022-0003
+https://doi.org/10.15212/ijafr-2022-0101
+https://doi.org/10.2478/ijafr-2020-0001
+https://doi.org/10.15212/ijafr-2020-0116
+https://doi.org/10.15212/ijafr-2020-0112
+https://doi.org/10.15212/ijafr-2020-0105
+https://doi.org/10.2478/ijafr-2019-0005
+https://doi.org/10.1515/ijafr-2017-0002
+https://doi.org/10.1515/ijafr-2017-0003
+https://doi.org/10.1515/ijafr-2016-0016

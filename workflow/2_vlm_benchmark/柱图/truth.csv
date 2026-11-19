@@ -1,0 +1,301 @@
+﻿图片名,子图,系列,X类别/数值,Y值,误差±,显著性
+Figure1.png,,Control,0d,3.054,0.214,a
+Figure1.png,,PEF,0d,3.054,0.214,a
+Figure1.png,,Control,6d,2.269,0.223,b
+Figure1.png,,PEF,6d,3.311,0.501,a
+Figure1.png,,Control,12d,2.548,0.25,b
+Figure1.png,,PEF,12d,3.607,0.453,a
+Figure1.png,,Control,18d,3.067,0.423,b
+Figure1.png,,PEF,18d,4.566,0.334,a
+Figure1.png,,Control,24d,3.025,0.281,b
+Figure1.png,,PEF,24d,4.189,0.337,a
+Figure2.png,,Control,0d,141.94,10.47,a
+Figure2.png,,PEF,0d,141.94,10.47,a
+Figure2.png,,Control,6d,119.15,39.44,b
+Figure2.png,,PEF,6d,173.89,58.3,a
+Figure2.png,,Control,12d,103.05,32.2,b
+Figure2.png,,PEF,12d,272.61,33.21,a
+Figure2.png,,Control,18d,291.47,43.79,b
+Figure2.png,,PEF,18d,447.2,28.72,a
+Figure2.png,,Control,24d,257.5,51.66,b
+Figure2.png,,PEF,24d,386.76,18.02,a
+Figure3.png,,Control,0d,12.05,0.89,a
+Figure3.png,,PEF,0d,12.05,0.89,a
+Figure3.png,,Control,6d,11.02,1.03,b
+Figure3.png,,PEF,6d,13.0,1.68,a
+Figure3.png,,Control,12d,14.46,1.38,b
+Figure3.png,,PEF,12d,16.71,1.61,a
+Figure3.png,,Control,18d,13.71,2.24,b
+Figure3.png,,PEF,18d,15.68,1.06,a
+Figure3.png,,Control,24d,13.69,0.71,b
+Figure3.png,,PEF,24d,15.45,1.64,a
+Figure4.png,,Control,0d,209.99,12.6,a
+Figure4.png,,PEF,0d,209.99,12.6,a
+Figure4.png,,Control,6d,199.35,19.82,b
+Figure4.png,,PEF,6d,222.41,11.79,a
+Figure4.png,,Control,12d,251.34,12.99,b
+Figure4.png,,PEF,12d,311.88,28.57,a
+Figure4.png,,Control,18d,259.52,28.74,b
+Figure4.png,,PEF,18d,330.26,17.08,a
+Figure4.png,,Control,24d,224.46,19.16,b
+Figure4.png,,PEF,24d,281.55,49.28,a
+Figure5.png,,Control,0d,16.29,2.03,a
+Figure5.png,,PEF,0d,16.29,2.03,a
+Figure5.png,,Control,6d,12.28,1.47,b
+Figure5.png,,PEF,6d,13.53,2.39,a
+Figure5.png,,Control,12d,14.79,2.15,b
+Figure5.png,,PEF,12d,19.54,2.7,a
+Figure5.png,,Control,18d,15.87,1.83,b
+Figure5.png,,PEF,18d,22.58,2.69,a
+Figure5.png,,Control,24d,13.35,2.73,b
+Figure5.png,,PEF,24d,20.29,1.87,a
+Figure6.png,,Control,0d,5.37,2.18,a
+Figure6.png,,PEF,0d,5.37,2.18,a
+Figure6.png,,Control,6d,6.67,2.22,b
+Figure6.png,,PEF,6d,6.87,1.99,a
+Figure6.png,,Control,12d,11.58,1.15,b
+Figure6.png,,PEF,12d,16.16,1.62,a
+Figure6.png,,Control,18d,12.49,1.96,b
+Figure6.png,,PEF,18d,22.43,1.46,a
+Figure6.png,,Control,24d,10.32,1.37,b
+Figure6.png,,PEF,24d,12.37,3.22,a
+Figure7.png,,Control,0d,152.4,18.4,a
+Figure7.png,,PEF,0d,152.4,18.4,a
+Figure7.png,,Control,6d,143.6,10.2,b
+Figure7.png,,PEF,6d,201.2,47.6,a
+Figure7.png,,Control,12d,198.2,16.5,b
+Figure7.png,,PEF,12d,344.2,25.1,a
+Figure7.png,,Control,18d,409.2,17.1,b
+Figure7.png,,PEF,18d,533.0,20.4,a
+Figure7.png,,Control,24d,356.4,36.7,b
+Figure7.png,,PEF,24d,470.2,37.8,a
+Figure8.png,,Control,0d,6.95,0.17,a
+Figure8.png,,PEF,0d,6.95,0.17,a
+Figure8.png,,Control,6d,5.04,1.7,b
+Figure8.png,,PEF,6d,5.6,0.8,a
+Figure8.png,,Control,12d,6.39,1.44,b
+Figure8.png,,PEF,12d,7.31,1.35,a
+Figure8.png,,Control,18d,10.74,1.74,b
+Figure8.png,,PEF,18d,12.42,1.54,a
+Figure8.png,,Control,24d,8.98,0.96,b
+Figure8.png,,PEF,24d,10.94,1.23,a
+Figure9.png,,Control,0d,79.16,6.62,a
+Figure9.png,,PEF,0d,79.16,6.62,a
+Figure9.png,,Control,6d,89.18,6.19,b
+Figure9.png,,PEF,6d,102.53,9.3,a
+Figure9.png,,Control,12d,82.43,9.24,b
+Figure9.png,,PEF,12d,88.78,8.83,a
+Figure9.png,,Control,18d,73.4,4.4,b
+Figure9.png,,PEF,18d,80.11,9.42,a
+Figure9.png,,Control,24d,68.2,6.94,b
+Figure9.png,,PEF,24d,74.16,2.79,a
+Figure10.png,,Solubility,CF,32.35,2.34,a
+Figure10.png,,Solubility,W-4,26.58,2.67,b
+Figure10.png,,Solubility,W-8,20.59,1.56,b
+Figure10.png,,Solubility,W-12,26.8,3.23,c
+Figure10.png,,Solubility,W-24,17.98,0.89,cd
+Figure10.png,,Solubility,Control,13.58,1.11,d
+Figure11.png,,Moisture content,CF,26.56,1.68,a
+Figure11.png,,Moisture content,W-4,13.85,1.26,b
+Figure11.png,,Moisture content,W-8,16.0,0.99,b
+Figure11.png,,Moisture content,W-12,25.0,1.67,a
+Figure11.png,,Moisture content,W-24,24.24,3.29,a
+Figure11.png,,Moisture content,Control,15.63,1.99,b
+Figure12.png,,Water vapor permeability,CF,3.912,0.438,b
+Figure12.png,,Water vapor permeability,W-4,2.159,0.333,d
+Figure12.png,,Water vapor permeability,W-8,3.066,0.468,c
+Figure12.png,,Water vapor permeability,W-12,3.422,0.78,bc
+Figure12.png,,Water vapor permeability,W-24,3.201,0.456,bc
+Figure12.png,,Water vapor permeability,Control,6.672,0.756,a
+Figure13.png,,Tensile strength,CF,10.53,1.33,cd
+Figure13.png,,Tensile strength,W-4,14.75,1.39,bc
+Figure13.png,,Tensile strength,W-8,16.47,1.57,ab
+Figure13.png,,Tensile strength,W-12,18.39,2.57,a
+Figure13.png,,Tensile strength,W-24,6.41,0.89,e
+Figure13.png,,Tensile strength,Control,9.51,0.57,d
+Figure14.png,,Elongation at break,CF,64.32,5.28,d
+Figure14.png,,Elongation at break,W-4,90.31,4.3,c
+Figure14.png,,Elongation at break,W-8,93.92,5.89,bc
+Figure14.png,,Elongation at break,W-12,108.04,2.68,a
+Figure14.png,,Elongation at break,W-24,98.68,3.68,ab
+Figure14.png,,Elongation at break,Control,72.06,3.27,d
+Figure15.png,,Young's Modulus,CF,99.19,5.79,a
+Figure15.png,,Young's Modulus,W-4,77.93,4.12,d
+Figure15.png,,Young's Modulus,W-8,83.99,5.12,bc
+Figure15.png,,Young's Modulus,W-12,80.26,3.45,cd
+Figure15.png,,Young's Modulus,W-24,70.56,1.93,e
+Figure15.png,,Young's Modulus,Control,88.19,3.67,b
+Figure16.png,,Film thickness,CF,0.197,0.021,ab
+Figure16.png,,Film thickness,W-4,0.183,0.015,abc
+Figure16.png,,Film thickness,W-8,0.16,0.01,cd
+Figure16.png,,Film thickness,W-12,0.178,0.006,bc
+Figure16.png,,Film thickness,W-24,0.143,0.015,d
+Figure16.png,,Film thickness,Control,0.203,0.015,a
+Figure17.png,,Fiber conversation rate of traditional water bath,0,1.8,0.09,e
+Figure17.png,,Fiber conversation rate of water bate after PEF,0,2.01,0.07,f
+Figure17.png,,Fiber conversation rate of traditional water bath,2,11.5333,1.20139,d
+Figure17.png,,Fiber conversation rate of water bate after PEF,2,14.4667,1.30128,e
+Figure17.png,,Fiber conversation rate of traditional water bath,4,17.4,1.7,c
+Figure17.png,,Fiber conversation rate of water bate after PEF,4,25.3,0.91652,d
+Figure17.png,,Fiber conversation rate of traditional water bath,6,20.0333,0.70238,c
+Figure17.png,,Fiber conversation rate of water bate after PEF,6,33.4667,0.35119,c
+Figure17.png,,Fiber conversation rate of traditional water bath,8,25.5,1.1,b
+Figure17.png,,Fiber conversation rate of water bate after PEF,8,41.1333,1.75024,a
+Figure17.png,,Fiber conversation rate of traditional water bath,10,43.7667,1.95533,a
+Figure17.png,,Fiber conversation rate of water bate after PEF,10,39.2667,0.80208,ab
+Figure17.png,,Fiber conversation rate of traditional water bath,12,46.6,1.60935,a
+Figure17.png,,Fiber conversation rate of water bate after PEF,12,37.3667,0.37859,b
+Figure18.png,,α-helix,Control,17.01,1.22,a
+Figure18.png,,β-sheet,Control,34.85,0.85,d
+Figure18.png,,β-turn,Control,16.33,0.43,a
+Figure18.png,,Randomcoil,Control,31.81,0.33,a
+Figure18.png,,α-helix,P,17.06,0.28,a
+Figure18.png,,β-sheet,P,37.28,0.69,c
+Figure18.png,,β-turn,P,16.63,0.63,a
+Figure18.png,,Randomcoil,P,29.03,1.03,b
+Figure18.png,,α-helix,8h,16.2,0.52,ab
+Figure18.png,,β-sheet,8h,38.52,0.57,c
+Figure18.png,,β-turn,8h,16.49,0.49,a
+Figure18.png,,Randomcoil,8h,28.79,0.94,b
+Figure18.png,,α-helix,12h,15.45,0.94,bc
+Figure18.png,,β-sheet,12h,39.94,0.37,b
+Figure18.png,,β-turn,12h,16.4,0.4,a
+Figure18.png,,Randomcoil,12h,28.21,0.77,b
+Figure18.png,,α-helix,P-4,14.4,0.44,cd
+Figure18.png,,β-sheet,P-4,42.44,0.85,a
+Figure18.png,,β-turn,P-4,16.51,0.51,a
+Figure18.png,,Randomcoil,P-4,26.65,0.96,c
+Figure18.png,,α-helix,P-8,13.83,0.34,d
+Figure18.png,,β-sheet,P-8,43.34,0.48,a
+Figure18.png,,β-turn,P-8,16.32,0.32,a
+Figure18.png,,Randomcoil,P-8,26.51,0.23,c
+Figure19.png,,Free SH,P,2.1436,0.0542,a
+Figure19.png,,Surface SH,P,3.8432,0.2246,a
+Figure19.png,,Total SH,P,23.8077,1.4001,bc
+Figure19.png,,S-S,P,19.3641,1.3485,bc
+Figure19.png,,Free SH,P-4,1.6816,0.0297,d
+Figure19.png,,Surface SH,P-4,2.4387,0.1742,d
+Figure19.png,,Total SH,P-4,25.5325,0.5032,ab
+Figure19.png,,S-S,P-4,21.0329,0.4047,ab
+Figure19.png,,Free SH,P-8,1.7892,0.0236,c
+Figure19.png,,Surface SH,P-8,2.0368,0.4592,e
+Figure19.png,,Total SH,P-8,26.8208,1.0007,a
+Figure19.png,,S-S,P-8,21.5864,0.5427,a
+Figure19.png,,Free SH,8h,1.6275,0.0185,e
+Figure19.png,,Surface SH,8h,2.9731,0.2972,c
+Figure19.png,,Total SH,8h,24.9005,0.4,ab
+Figure19.png,,S-S,8h,20.8609,0.5194,ab
+Figure19.png,,Free SH,12h,1.6716,0.0085,d
+Figure19.png,,Surface SH,12h,2.6544,0.3821,d
+Figure19.png,,Total SH,12h,25.258,0.5502,ab
+Figure19.png,,S-S,12h,22.0315,0.9829,a
+Figure19.png,,Free SH,Control,1.8677,0.0829,b
+Figure19.png,,Surface SH,Control,3.5025,0.2101,b
+Figure19.png,,Total SH,Control,22.1123,0.6004,c
+Figure19.png,,S-S,Control,18.4848,0.5821,c
+Figure20.png,,Figure20,Control,31621.0,1289.57,b
+Figure20.png,,Figure20,P,50947.33,3896.73,a
+Figure20.png,,Figure20,8h,26107.33,997.91,bc
+Figure20.png,,Figure20,12h,22990.0,445.74,cd
+Figure20.png,,Figure20,P-4,18065.33,1883.11,d
+Figure20.png,,Figure20,P-8,9097.0,713.58,e
+Figure21.jpg,,RN,1,88.3,0.47,a
+Figure21.jpg,,RG-GG,1,93.58,0.55,a
+Figure21.jpg,,RN-HCS,1,91.08,0.54,a
+Figure21.jpg,,RN-CP,1,93.3,0.62,a
+Figure21.jpg,,RN-GHC,1,94.3,0.26,a
+Figure21.jpg,,RN,7,87.48,0.3,a
+Figure21.jpg,,RG-GG,7,91.04,0.53,a
+Figure21.jpg,,RN-HCS,7,90.09,0.56,b
+Figure21.jpg,,RN-CP,7,92.56,0.62,a
+Figure21.jpg,,RN-GHC,7,93.8,0.38,a
+Figure21.jpg,,RN,14,82.5,0.32,b
+Figure21.jpg,,RG-GG,14,90.5,0.57,a
+Figure21.jpg,,RN-HCS,14,89.64,0.59,c
+Figure21.jpg,,RN-CP,14,91.62,0.32,a
+Figure21.jpg,,RN-GHC,14,92.8,0.44,a
+Figure21.jpg,,RN,21,77.6,0.31,c
+Figure21.jpg,,RG-GG,21,90.1,0.55,a
+Figure21.jpg,,RN-HCS,21,87.5,0.33,c
+Figure21.jpg,,RN-CP,21,91.06,0.34,a
+Figure21.jpg,,RN-GHC,21,92.12,0.39,a
+Figure21.jpg,,RN,28,75.16,0.21,d
+Figure21.jpg,,RG-GG,28,88.48,0.51,a
+Figure21.jpg,,RN-HCS,28,86.9,0.54,c
+Figure21.jpg,,RN-CP,28,89.46,0.57,b
+Figure21.jpg,,RN-GHC,28,91.6,0.46,a
+Figure22.jpg,,RN,1,5307.37,168.07,a
+Figure22.jpg,,RG-GG,1,6119.81,148.84,a
+Figure22.jpg,,RN-HCS,1,6214.51,274.27,a
+Figure22.jpg,,RN-CP,1,6983.85,319.67,a
+Figure22.jpg,,RN-GHC,1,6322.53,130.91,a
+Figure22.jpg,,RN,7,5084.78,244.28,a
+Figure22.jpg,,RG-GG,7,5729.69,249.18,a
+Figure22.jpg,,RN-HCS,7,5346.14,331.5,b
+Figure22.jpg,,RN-CP,7,6485.87,334.57,a
+Figure22.jpg,,RN-GHC,7,6307.82,251.68,a
+Figure22.jpg,,RN,14,4298.88,180.78,b
+Figure22.jpg,,RG-GG,14,5275.27,140.08,b
+Figure22.jpg,,RN-HCS,14,5185.12,187.08,b
+Figure22.jpg,,RN-CP,14,5733.25,170.24,b
+Figure22.jpg,,RN-GHC,14,6194.79,338.0,a
+Figure22.jpg,,RN,21,4153.05,284.7,b
+Figure22.jpg,,RG-GG,21,5095.58,269.5,bc
+Figure22.jpg,,RN-HCS,21,4868.53,250.99,c
+Figure22.jpg,,RN-CP,21,5662.95,206.86,b
+Figure22.jpg,,RN-GHC,21,5965.31,209.54,a
+Figure22.jpg,,RN,28,3684.77,186.96,c
+Figure22.jpg,,RG-GG,28,4530.82,347.09,c
+Figure22.jpg,,RN-HCS,28,4229.9,248.08,d
+Figure22.jpg,,RN-CP,28,4481.51,181.35,c
+Figure22.jpg,,RN-GHC,28,4912.78,258.74,b
+Figure23.jpg,,RN,1,3773.32,299.53,a
+Figure23.jpg,,RG-GG,1,4221.51,148.84,a
+Figure23.jpg,,RN-HCS,1,4207.31,223.29,a
+Figure23.jpg,,RN-CP,1,4845.83,267.67,a
+Figure23.jpg,,RN-GHC,1,4521.72,130.91,a
+Figure23.jpg,,RN,7,3505.83,144.28,a
+Figure23.jpg,,RG-GG,7,3904.7,236.67,a
+Figure23.jpg,,RN-HCS,7,3966.11,131.5,b
+Figure23.jpg,,RN-CP,7,4510.61,264.57,b
+Figure23.jpg,,RN-GHC,7,4361.02,264.21,a
+Figure23.jpg,,RN,14,3336.18,220.78,ab
+Figure23.jpg,,RG-GG,14,3551.27,140.08,b
+Figure23.jpg,,RN-HCS,14,3633.18,187.08,c
+Figure23.jpg,,RN-CP,14,3728.15,210.24,c
+Figure23.jpg,,RN-GHC,14,3961.02,258.0,b
+Figure23.jpg,,RN,21,2830.36,284.7,b
+Figure23.jpg,,RG-GG,21,3359.77,269.5,c
+Figure23.jpg,,RN-HCS,21,3382.15,250.99,d
+Figure23.jpg,,RN-CP,21,3555.2,206.86,c
+Figure23.jpg,,RN-GHC,21,3865.75,209.54,c
+Figure23.jpg,,RN,28,2407.79,186.96,c
+Figure23.jpg,,RG-GG,28,2964.12,347.09,c
+Figure23.jpg,,RN-HCS,28,3073.29,248.08,d
+Figure23.jpg,,RN-CP,28,3364.26,181.35,d
+Figure23.jpg,,RN-GHC,28,3575.83,258.74,d
+Figure24.jpg,,RN,1,70.55,3.47,a
+Figure24.jpg,,RG-GG,1,90.86,2.55,a
+Figure24.jpg,,RN-HCS,1,90.21,3.54,a
+Figure24.jpg,,RN-CP,1,80.87,1.62,b
+Figure24.jpg,,RN-GHC,1,95.55,2.26,a
+Figure24.jpg,,RN,7,58.44,4.3,b
+Figure24.jpg,,RG-GG,7,76.5,3.53,b
+Figure24.jpg,,RN-HCS,7,79.29,1.56,b
+Figure24.jpg,,RN-CP,7,96.05,2.62,a
+Figure24.jpg,,RN-GHC,7,97.17,1.38,a
+Figure24.jpg,,RN,14,50.75,2.32,b
+Figure24.jpg,,RG-GG,14,60.5,2.57,d
+Figure24.jpg,,RN-HCS,14,64.21,1.59,d
+Figure24.jpg,,RN-CP,14,68.51,2.32,b
+Figure24.jpg,,RN-GHC,14,79.06,3.44,b
+Figure24.jpg,,RN,21,27.84,1.31,c
+Figure24.jpg,,RG-GG,21,51.82,1.55,c
+Figure24.jpg,,RN-HCS,21,52.84,2.33,c
+Figure24.jpg,,RN-CP,21,60.67,3.34,c
+Figure24.jpg,,RN-GHC,21,74.74,2.39,c
+Figure24.jpg,,RN,28,8.7,1.91,d
+Figure24.jpg,,RG-GG,28,33.9,1.61,e
+Figure24.jpg,,RN-HCS,28,38.85,1.54,e
+Figure24.jpg,,RN-CP,28,52.03,1.57,d
+Figure24.jpg,,RN-GHC,28,61.61,2.46,d

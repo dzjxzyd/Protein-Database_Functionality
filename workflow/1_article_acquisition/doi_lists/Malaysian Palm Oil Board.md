@@ -1,0 +1,9 @@
+https://doi.org/10.21894/jopr.2023.0062
+https://doi.org/10.21894/jopr.2022.0004
+https://doi.org/10.21894/jopr.2021.0049
+https://doi.org/10.21894/jopr.2021.0011
+https://doi.org/10.21894/jopr.2020.0082
+https://doi.org/10.21894/jopr.2020.0033
+https://doi.org/10.21894/jopr.2020.0068
+https://doi.org/10.21894/jopr.2019.0021
+https://doi.org/10.21894/jopr.2017.2901.03
