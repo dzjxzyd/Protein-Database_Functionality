@@ -20,8 +20,14 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-5c6370" alt="Code license: MIT"></a>
 </p>
 
+<h2 align="center">Online database</h2>
+<p align="center"><strong><a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">Open the PDF database website →</a></strong><br>
+<a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">https://dzjxzyd.github.io/Protein-Database_Functionality/</a></p>
+<p align="center">Search, browse, compare and download the dataset in your browser. No installation or account required.<br>
+This GitHub repository contains the website source code, data files and documentation.</p>
+
 <p align="center">
-  <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">Explore the database</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/search">Search</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/download">Download</a> &nbsp;·&nbsp; <a href="llms.txt">AI guide</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/ai4fh-lab/">AI4FH Lab</a>
+  <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">Database home</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/search">Search the dataset</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/download">Download data</a> &nbsp;·&nbsp; <a href="llms.txt">AI guide</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/ai4fh-lab/">AI4FH Lab</a>
 </p>
 
 ---
@@ -107,6 +113,8 @@ solubility, emulsifying properties, foaming properties, gelling properties, wate
 - Only numerical values, sample composition, processing conditions and test methods are included — no text from the articles. Copyright of the articles remains with their authors and publishers; please cite the original articles.
 
 ## Downloads
+
+**[Open the data download page →](https://dzjxzyd.github.io/Protein-Database_Functionality/#/download)** to choose a property-specific CSV archive or the complete set of relational tables.
 
 All files are UTF-8 CSV (open directly in Excel); each archive also contains this README and the data licence. Every file, with its row count and size, is listed in [`data/download/manifest.json`](data/download/manifest.json).
 
