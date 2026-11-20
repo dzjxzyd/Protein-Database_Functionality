@@ -20,8 +20,14 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-5c6370" alt="Code license: MIT"></a>
 </p>
 
+<h2 align="center">在线数据库入口</h2>
+<p align="center"><strong><a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">点击进入 PDF 食品蛋白质功能特性数据库 →</a></strong><br>
+<a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">https://dzjxzyd.github.io/Protein-Database_Functionality/</a></p>
+<p align="center">在浏览器中直接检索、浏览、比较和下载数据，无需安装软件或注册账号。<br>
+本 GitHub 仓库用于存放网站源码、数据文件和项目文档。</p>
+
 <p align="center">
-  <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">打开数据库</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/search">检索</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/download">下载</a> &nbsp;·&nbsp; <a href="llms.txt">AI 使用指南</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/ai4fh-lab/">AI4FH Lab</a>
+  <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/">数据库首页</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/search">检索数据</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/Protein-Database_Functionality/#/download">下载数据</a> &nbsp;·&nbsp; <a href="llms.txt">AI 使用指南</a> &nbsp;·&nbsp; <a href="https://dzjxzyd.github.io/ai4fh-lab/">AI4FH Lab</a>
 </p>
 
 ---
@@ -107,6 +113,8 @@ PDF 汇集了已发表文献中 **17 项食品蛋白质功能特性**的测量�
 - 本库只包含数值、样品组成、处理条件和测试方法，不包含论文原文句子。论文版权归原作者和出版商所有；使用数据请引用对应的原始论文。
 
 ## 数据下载
+
+**[进入数据下载页面 →](https://dzjxzyd.github.io/Protein-Database_Functionality/#/download)**，选择按功能特性整理的 CSV 压缩包，或下载全库的关联数据表。
 
 全部是 UTF-8 CSV（Excel 可直接打开），每个压缩包里都附本说明和数据许可；全部文件及行数、大小列在 [`data/download/manifest.json`](data/download/manifest.json)。
 
